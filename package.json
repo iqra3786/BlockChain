@@ -1,0 +1,24 @@
+{
+  "name": "blockchainassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqra3786/BlockChain.git"
+  },
+  "author": "Iqra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iqra3786/BlockChain/issues"
+  },
+  "homepage": "https://github.com/iqra3786/BlockChain#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}
